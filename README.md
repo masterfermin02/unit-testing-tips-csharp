@@ -6,6 +6,10 @@ In these times, the benefits of writing unit tests are huge. I think that most o
 
 ### Test Doubles
 
+Test doubles are fake dependencies used in tests.
+
+![Test doubles](./assets/test-doubles.jpg ':size=800')
+
 ---
 
 ### Dummy
